@@ -31,8 +31,8 @@ The Password Analyzer is a comprehensive tool designed to evaluate the strength 
 2. Give the executable permissions to run the script 
 
 ```bash
-chmod +x 
-
+chmod +x python_main.py
+```
 
 ## License
 
