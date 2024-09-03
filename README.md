@@ -28,8 +28,10 @@ The Password Analyzer is a comprehensive tool designed to evaluate the strength 
  cd FUTURE_CS_03
  ```
 
+2. Give the executable permissions to run the script 
 
-
+```bash
+chmod +x 
 
 
 ## License
