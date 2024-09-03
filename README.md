@@ -39,13 +39,13 @@ python --version
 
 3. Run the Script
 
-Run the script by typing the following command:
+**Run the script by typing the following command:**
 
 ```bash
 python password_analyzer.py
 ```
 
-If you are using Python 3.x and have both Python 2.x and 3.x installed, you might need to use:
+**If you are using Python 3.x and have both Python 2.x and 3.x installed, you might need to use:**
 
  ```bash
 python3 password_analyzer.py
@@ -53,17 +53,17 @@ python3 password_analyzer.py
 
 4. Input a Password
 
-After running the script, you will be prompted to enter a password:
+**After running the script, you will be prompted to enter a password:**
 
 ```bash
 Enter the password to analyze:
 ```
 
-Type the password you want to analyze and press Enter.
+**Type the password you want to analyze and press Enter.**
 
-5. view the results
+5. View the Results
 
-The script will analyze the password and display the strength score and recommendations to improve its security:
+**The script will analyze the password and display the strength score and recommendations to improve its security:**
 
 ```bash
 Password Strength Analysis:
@@ -76,13 +76,13 @@ Recommendations for Improvement:
 
 6. Modify and Re-run as Needed
 
-Based on the recommendations provided by the script, modify your password and re-run the script as needed to check for improvements.
+**Based on the recommendations provided by the script, modify your password and re-run the script as needed to check for improvements.**
 
 7. Additional Tips
 
--> Run in an IDE: You can also run the script in an Integrated Development Environment (IDE) like PyCharm, VS Code, or Jupyter Notebook, which provides a more user-friendly interface and debugging tools.
+**Run in an IDE:** You can also run the script in an Integrated Development Environment (IDE) like PyCharm, VS Code, or Jupyter Notebook, which provides a more user-friendly interface and debugging tools.
 
--> Customize the Script: Feel free to modify the script to include more advanced password checks or to read common passwords and dictionary words from external files.
+**Customize the Script:** Feel free to modify the script to include more advanced password checks or to read common passwords and dictionary words from external files.
 
 ## License
 
