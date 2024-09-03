@@ -28,6 +28,12 @@ The Password Analyzer is a comprehensive tool designed to evaluate the strength 
  cd FUTURE_CS_03
  ```
 
+2. Prepare Your Environment
+
+**Ensure Python is Installed:** Make sure you have Python installed on your computer. You can check if Python is installed by opening a terminal (on macOS or Linux) or Command Prompt (on Windows) and typing:
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
