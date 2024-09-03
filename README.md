@@ -32,6 +32,9 @@ The Password Analyzer is a comprehensive tool designed to evaluate the strength 
 
 **Ensure Python is Installed:** Make sure you have Python installed on your computer. You can check if Python is installed by opening a terminal (on macOS or Linux) or Command Prompt (on Windows) and typing:
 
+```sh
+python --version
+```
 
 
 ## License
