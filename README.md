@@ -34,6 +34,12 @@ The Password Analyzer is a comprehensive tool designed to evaluate the strength 
 chmod +x python_main.py
 ```
 
+3. Run the tool
+
+```bash
+python python_main.py
+```
+
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
