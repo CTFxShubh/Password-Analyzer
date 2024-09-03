@@ -28,18 +28,6 @@ The Password Analyzer is a comprehensive tool designed to evaluate the strength 
  cd FUTURE_CS_03
  ```
 
-2. Give the executable permissions to run the script 
-
-```bash
-chmod +x python_main.py
-```
-
-3. Run the tool
-
-```bash
-python python_main.py
-```
-
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
