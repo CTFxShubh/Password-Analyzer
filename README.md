@@ -23,9 +23,9 @@ The Password Analyzer is a comprehensive tool designed to evaluate the strength 
 
 1. Clone the Repository: Open your terminal and execute the following commands to clone the repository and navigate to the project directory:
 
-```bash
-git clone https://github.com/CTFxShubh/FUTURE_CS_03.git
-cd FUTURE_CS_03
-```
+ ```bash
+ git clone https://github.com/CTFxShubh/FUTURE_CS_03.git
+ cd FUTURE_CS_03
+ ```
 
 
