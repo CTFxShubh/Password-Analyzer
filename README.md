@@ -29,3 +29,10 @@ The Password Analyzer is a comprehensive tool designed to evaluate the strength 
  ```
 
 
+
+
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
