@@ -1,6 +1,6 @@
 # FUTURE_CS_03
 ## Password Analyzer Tool
-
+ 
 ## Overview
 
 The Password Analyzer is a comprehensive tool designed to evaluate the strength of user passwords and provide detailed reports on potential vulnerabilities. It assesses various factors that contribute to password security, including common usage patterns, personal information matches, and susceptibility to both dictionary and brute-force attacks. The tool also offers actionable recommendations to enhance password security.
